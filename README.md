@@ -1,2 +1,2 @@
 # alexandria
-Fist try to do a video lib using Vite and API
+First try to do a video lib using Vite and API
